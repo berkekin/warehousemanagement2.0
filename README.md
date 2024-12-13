@@ -1,9 +1,9 @@
 # warehousemanagement2.0
 
-Overview
+Overview:
 Warehouse Management System v2.0 is a robust and user-friendly desktop application developed using C# and the .NET Framework. Designed to streamline and optimize warehouse operations, this system offers comprehensive tracking and management of inventory items, ensuring efficiency and accuracy in your workplace.
 
-Features
+Features:
 Inventory Management
 
 View all inventory items in a structured DataGridView.
